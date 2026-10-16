@@ -1,2 +1,3 @@
+
 Hospital Management System
-Status: Appointment Booking Completed
+Status: Patient Registration and Appointment Booking Completed
