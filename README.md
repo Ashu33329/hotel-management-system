@@ -1,2 +1,2 @@
-# hospital-management-system
-Hospital Management System demonstrating Git Flow and automated testing.
+# hotel-management-system
+Hotel Management System demonstrating Git Flow and automated testing.
